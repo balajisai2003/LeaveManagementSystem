@@ -57,8 +57,8 @@ Ensure you have the following installed:
 
 #### Clone the Repository:
 ```sh
-git clone https://github.com/balajisai2003-leavemanagementsystem.git
-cd balajisai2003-leavemanagementsystem
+git clone https://github.com/balajisai2003/LeaveManagementSystem.git
+cd LeaveManagementSystem
 ```
 
 ### Backend Setup
