@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.LMSApi", "Service.AuthAPI\Service.LMSApi.csproj", "{F1765C6E-022B-4015-841A-1689A50D47C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1765C6E-022B-4015-841A-1689A50D47C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1765C6E-022B-4015-841A-1689A50D47C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1765C6E-022B-4015-841A-1689A50D47C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1765C6E-022B-4015-841A-1689A50D47C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE05505-9B7A-4AE7-A271-11D475D6BAD1}
+	EndGlobalSection
+EndGlobal
